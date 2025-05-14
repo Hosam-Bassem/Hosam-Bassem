@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 I'm a third-year Computer Science student at Heriot-Watt University, specializing in Software Engineering and Machine Learning.<br>💻 I enjoy building efficient, user-friendly applications and solving algorithmic challenges.<br>🌐 I'm passionate about writing clean, maintainable code and collaborating on meaningful tech projects.<br>📫 Feel free to reach out to me at hosameldin_bassem@outlook.com<br>🔗  [Connect with me on LinkedIn](https://www.linkedin.com/in/hosam-farouk/)
+👋 I'm a third-year Computer Science student at Heriot-Watt University, specializing in Software Engineering and Machine Learning.<br>💻 I enjoy building efficient, user-friendly applications and solving algorithmic challenges.<br>🌐 I'm passionate about writing clean, maintainable code and collaborating on meaningful tech projects.<br>📫 Feel free to reach out to me at hosameldin_bassem@outlook.com<br>🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/hosam-farouk/)
 
 
 ## 🌐 Socials:
