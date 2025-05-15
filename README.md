@@ -1,5 +1,4 @@
-<img src="https://www.canva.com/design/DAGnh24MBgk/DRLp1QVAV1Y8uBMvBcBO4Q/edit?utm_content=DAGnh24MBgk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="banner" width="100%"/>
-
+<img src="https://raw.githubusercontent.com/Hosam-Bassem/Hosam-Bassem/main/Github%20Banner.png" alt="GitHub Banner" width="100%"/>
 
 # 💫 About Me:
 👋 I'm a third-year Computer Science student at Heriot-Watt University, specializing in Software & ML Engineering.<br>💻 I enjoy building efficient, user-friendly applications and solving algorithmic challenges.<br>🌐 I'm passionate about writing clean, maintainable code and collaborating on meaningful tech projects.<br>📫 Feel free to reach out to me at hosameldin_bassem@outlook.com<br>🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/hosam-farouk/)
